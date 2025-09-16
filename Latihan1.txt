@@ -1,1 +1,8 @@
-Latihan hari ini membuat akun github
+Latihan hari ini :
+membuat akun github
+membuat repository
+melakukan edit pada readme.md
+
+pada latihan ini juga :
+a. membuat file latihan.txt
+b.membuat branch
